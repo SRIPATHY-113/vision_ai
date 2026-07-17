@@ -1,5 +1,7 @@
 # 🛡️ AI-Powered ATM Surveillance Cloud Dashboard
 
+Demo link:https://visionai-gofcmkyumreeqtbkda7ezb.streamlit.app/
+
 Real-time anomaly and loitering detection for ATM enclosures, built with
 [Streamlit](https://streamlit.io), [streamlit-webrtc](https://github.com/whitphx/streamlit-webrtc),
 and [YOLOv8](https://github.com/ultralytics/ultralytics).
@@ -82,7 +84,3 @@ analyzing footage at an ATM may fall under privacy/biometric regulations
 depending on jurisdiction (e.g. GDPR, US state biometric privacy laws).
 Confirm signage, retention policy, and legal basis for processing before
 using this in production — this is separate from the technical setup above.
-
-## License
-
-Add your license here.
